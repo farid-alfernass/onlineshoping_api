@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61182320-5ec7-4411-b243-42bc8b0d2015" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helper.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="helper.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/helper.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="347">
@@ -73,6 +69,15 @@
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -178,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/routes/index.js" />
         <option value="$PROJECT_DIR$/src/routes/cart.js" />
         <option value="$PROJECT_DIR$/src/utils/helper.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -217,70 +223,6 @@
             <path>
               <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="express-jwt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="express-jwt" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="express-jwt" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="express-jwt" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="async" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="express-jwt" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="async" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="seeds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineshoping_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineshoping_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,18 +276,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531186023377</updated>
-      <workItem from="1531186030672" duration="27629000" />
+      <workItem from="1531186030672" duration="28060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27629000" />
+    <option name="totallyTimeSpent" value="28060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -355,7 +297,7 @@
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.39919892" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39919892" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -703,6 +645,13 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
