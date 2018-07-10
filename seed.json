@@ -1,0 +1,5 @@
+{
+	"undefined": "localhost/cart",
+	"development": "localhost/cart",
+	"production": "localhost/cart"
+}

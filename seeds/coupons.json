@@ -1,0 +1,20 @@
+[
+  {
+    "deal": "Promo Spesial Agustus",
+    "promoCode": "AGUSTUS45",
+    "amount": 45,
+    "stock": 100
+  },
+  {
+    "deal": "Promo Spesial HARBOLNAS",
+    "promoCode": "HARBOLNAS55",
+    "amount": 55,
+    "stock": 300
+  },
+  {
+    "deal": "Promo Spesial Lebaran",
+    "promoCode": "LEBARAN25",
+    "amount": 25,
+    "stock": 150
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "ASUS01209",
+    "name": "Laptop Asus ROG",
+    "price": 25000000,
+    "stock": 5
+  },
+  {
+    "sku": "JENS12201",
+    "name": "Celana Jeans Nevada",
+    "price": 135000,    
+    "stock": 3
+  },
+  {
+    "sku": "SKJ274856",
+    "name": "Tas Laptop 13'' ",
+    "price": 127000,    
+    "stock": 4
+  },
+  {
+    "sku": "XIMI1N023",
+    "name": "XIOMI Redmi Note 5 S 4/64G",
+    "price": 2790000,    
+    "stock": 3
+  }
+]
