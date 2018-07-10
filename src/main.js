@@ -24,7 +24,7 @@ app.use(cors())
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json({limit: '50mb'}))
 
-app.use('/api', routes)
+app.use('/', routes)
 
 app.use(errorHandle)
 

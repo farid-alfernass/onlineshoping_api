@@ -1,15 +1,15 @@
 {
-  "name": "cart node api",
+  "name": "nodejs-rest-api",
   "version": "1.1.0",
-  "description": "",
   "scripts": {
     "clean": "rimraf dist",
     "build": "NODE_ENV=production babel src --out-dir dist",
     "serve": "node dist/main",
     "start:babel": "babel-node src/main",
-    "start": "NODE_ENV=development nodemon --watch src --exec npm run start:babel -L",
+    "start": "NODE_ENV=development nodemon --watch src --exec npm run start:babel -L"
   },
   "author": "farid tri wicaksono",
+  "description": "Restfull API using nodejs, restify, oauth2, mongodb",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.5.2",
@@ -48,5 +48,9 @@
     "supertest": "^2.0.1",
     "swagger-jsdoc": "^1.8.2"
   },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/farid-alfernass/onlineshoping_api.git"
+   },
   "license": "ISC"
 }
